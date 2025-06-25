@@ -2,6 +2,10 @@
 
 A sophisticated healthcare chatbot that leverages advanced AI capabilities with memory retention to provide personalized medical information and assistance. This project combines modern technologies for both backend and frontend to deliver a seamless user experience.
 
+## Demo
+
+https://github.com/user-attachments/assets/6151506b-f2cd-4633-8950-7365adc7bd76
+
 ## 🚀 Features
 
 -   Real-time chat interface with AI healthcare assistant
