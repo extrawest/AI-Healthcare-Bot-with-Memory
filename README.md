@@ -116,7 +116,5 @@ This project is licensed under the BSD-3-Clause license License - see the [LICEN
 
 ## 👥 Authors
 
--   Alex Samoilenko
-
 Created by Oleksandr Samoilenko  
 [Extrawest.com](https://extrawest.com), 2025
