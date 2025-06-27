@@ -118,11 +118,5 @@ This project is licensed under the BSD-3-Clause license License - see the [LICEN
 
 -   Alex Samoilenko
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
-
----
-
 Created by Oleksandr Samoilenko  
 [Extrawest.com](https://extrawest.com), 2025
