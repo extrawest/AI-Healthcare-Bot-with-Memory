@@ -112,16 +112,11 @@ https://github.com/user-attachments/assets/6151506b-f2cd-4633-8950-7365adc7bd76
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD-3-Clause license License - see the [LICENSE](https://github.com/extrawest/AI-Healthcare-Bot-with-Memory/blob/main/LICENSE.txt) file for details.
 
 ## 👥 Authors
 
 -   Alex Samoilenko - Initial work
-
-## 🙏 Acknowledgments
-
--   Thanks to all contributors who have helped shape this project
--   Special thanks to the open-source community for the amazing tools and libraries
 
 ## License
 
